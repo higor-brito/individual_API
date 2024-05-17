@@ -1,10 +1,10 @@
 # individual_API
 
-H2 Banco:
-JDBC URL:  jdbc:h2:file:./h2/banco
+H2 Banco: <br>
+JDBC URL:  jdbc:h2:file:./h2/banco <br>
 
-Postman:
-listar:  localhost:8080/livros
-buscar: localhost:8080/livros/id
-delete: localhost:8080/livros/id
+Postman: <br>
+listar:  localhost:8080/livros <br>
+buscar: localhost:8080/livros/id <br>
+delete: localhost:8080/livros/id <br>
 atualizar: localhost:8080/livros
